@@ -1,4 +1,4 @@
 // devops- text configuration
 
 // Since : 2025-04-07
-// del author
+/ config 01 change in dev branch (conflict)
