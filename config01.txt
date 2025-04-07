@@ -2,3 +2,6 @@
 
 // Since : 2025-04-07
 / config 01 change in dev branch (conflict)
+// devops- text configuration
+// author : BJS
+// Since : 2025-04-07
